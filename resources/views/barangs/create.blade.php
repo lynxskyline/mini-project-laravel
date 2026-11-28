@@ -1,8 +1,5 @@
-
 @extends('layouts.app')
-
 @section('title', 'Tambah Barang | SIMLAB-RPL')
-
 @section('content')
     <div class="mb-8">
         <a href="{{ route('barangs.index') }}"
